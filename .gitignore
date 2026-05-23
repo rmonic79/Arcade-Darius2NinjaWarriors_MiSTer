@@ -1,0 +1,46 @@
+# Quartus build artifacts
+output_files/
+db/
+incremental_db/
+greybox_tmp/
+hc_output/
+hps_isw_handoff/
+simulation/
+timing/
+qdb/
+
+# Quartus session / workspace
+*.qws
+*.qpf.swp
+*_assignment_defaults.qdf
+
+# Quartus auto-generated info
+c5_pin_model_dump.txt
+cr_ie_info.json
+serv_req_info.txt
+jt12.raw
+
+# Signal Tap
+*.stp
+*.csv
+
+# Build logs + dev sandbox
+build_*.log
+_dev/
+
+# STA scripts
+_sta_*.tcl
+_sta_*.txt
+sta_*.tcl
+
+# JTAG
+jtag.cdf
+
+# Editor / OS
+*.bak
+*.tmp
+*~
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
