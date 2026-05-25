@@ -14,7 +14,19 @@
   <buttons default="A,B,Start" names="Shot,Bomb,-,-,-,-,Start,Coin,Pause"/>
 
   <switches default="FF,FF">
-    <!-- DIP switches to be mapped from MAME darius2 input definition -->
+    <!-- DSWA (bits 0-7) — MAME darius2 input -->
+    <dip bits="0"   ids="On,Off"                       name="Difficulty Enhancement"/>
+    <dip bits="1"   ids="Fast,Normal"                  name="Auto Fire"/>
+    <dip bits="2"   ids="On,Off"                       name="Service Mode"/>
+    <dip bits="3"   ids="Off,On"                       name="Demo Sounds"/>
+    <dip bits="4,5" ids="2C/3C,2C/1C,1C/2C,1C/1C"      name="Coin A"/>
+    <dip bits="6,7" ids="2C/3C,2C/1C,1C/2C,1C/1C"      name="Coin B"/>
+    <!-- DSWB (bits 8-15) -->
+    <dip bits="8,9"   ids="Hardest,Hard,Easy,Medium"   name="Difficulty"/>
+    <dip bits="10,11" ids="every 1000k,every 900k,every 800k,every 700k" name="Bonus Life"/>
+    <dip bits="12,13" ids="6,5,4,3"                    name="Lives"/>
+    <dip bits="14"    ids="On,Off"                     name="Invulnerability (Cheat)"/>
+    <dip bits="15"    ids="No,Yes"                     name="Allow Continue"/>
   </switches>
 
   <!-- CONF_STR F directive for MiSTer ROM download -->
