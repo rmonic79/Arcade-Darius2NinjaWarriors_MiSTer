@@ -21,7 +21,7 @@ most restrictive upstream (JTFRAME / JTCORES).
 | **JTFRAME / JTCORES** — framework, filters, dtack, tilemap, etc. | Jose Tejada ([@topapate](https://twitter.com/topapate)) | [jotego/jtcores](https://github.com/jotego/jtcores) | GPL-3 |
 | **JT12 / JT10** — YM2610 / YM2203 FM synthesizer | Jose Tejada | [jotego/jt12](https://github.com/jotego/jt12) | GPL-3 |
 | **JT5205** — MSM5205 ADPCM decoder | Jose Tejada | [jotego/jt5205](https://github.com/jotego/jt5205) | GPL-3 |
-| **TC0110PR / TC0140SYT** — Taito palette and main↔sound chips | Sean Gonsalves ([wickerwaka](https://github.com/wickerwaka)) | [wickerwaka/Arcade-TaitoF2_MiSTer](https://github.com/wickerwaka/Arcade-TaitoF2_MiSTer) | GPL-3 |
+| **TC0110PR / TC0140SYT** — Taito palette and main↔sound chips | Martin Donlon ([wickerwaka](https://github.com/wickerwaka)) | [wickerwaka/Arcade-TaitoF2_MiSTer](https://github.com/wickerwaka/Arcade-TaitoF2_MiSTer) | GPL-3 |
 | **MAME** — reference for TC0100SCN tilemap chip implementation, memory maps, timing | MAMEDev team | [mamedev/mame](https://github.com/mamedev/mame) | GPL-2+ |
 | **T80** — Z80 core | Daniel Wallner, MikeJ | [MiSTer-devel/T80](https://github.com/MiSTer-devel/T80) | BSD / GPL |
 | **sdram.sv** — Genesis SDRAM controller | Sorgelig ([sorgelig](https://github.com/sorgelig)) | [MiSTer-devel](https://github.com/MiSTer-devel) | GPL-3 |

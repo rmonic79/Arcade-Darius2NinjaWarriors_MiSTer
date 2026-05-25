@@ -1,6 +1,6 @@
 /*  TC0140SYT — Taito main↔sound communication chip
     Source: https://github.com/wickerwaka/Arcade-TaitoF2_MiSTer
-    Author: Sean Gonsalves (wickerwaka)
+    Author: Martin Donlon (wickerwaka)
     Modifications by Umberto Parisi for Darius2NinjaWarriors_MiSTer.
     License: GNU General Public License v3 or later
 

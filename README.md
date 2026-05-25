@@ -172,7 +172,7 @@ Built on top of work by:
 
 - **Jorge Cwik** — [FX68K](https://github.com/ijor/fx68k) (M68000 core)
 - **Jose Tejada** / Jotego — [JTFRAME, JT12 (JT10 YM2610), JT5205](https://github.com/jotego/jtcores)
-- **Sean Gonsalves** (wickerwaka) — [TC0110PR / TC0140SYT modules](https://github.com/wickerwaka/Arcade-TaitoF2_MiSTer)
+- **Martin Donlon** (wickerwaka) — [TC0110PR / TC0140SYT modules](https://github.com/wickerwaka/Arcade-TaitoF2_MiSTer)
 - **Sorgelig** and the **MiSTer-devel team** — framework, SDRAM controller, T80
 - The **MAME** project — invaluable hardware reference (TC0100SCN, memory maps, timing)
 
